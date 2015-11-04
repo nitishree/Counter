@@ -1,0 +1,30 @@
+body {
+	margin: 0;
+	padding: 0;
+}
+
+div input {
+	padding: 1em 1em 1em 1em;
+	margin: 1em 1em 1em 1em;
+    position: relative;
+    left: 500px;
+	background-color: #FFFF99;
+	text-align: center;
+	border-color: #7C7C7C;
+
+}
+div button {
+	padding: 2em 2em 2em 2em;
+	margin: 2em 2em 2em 2em;
+	position: relative;
+	left: 400px;
+	border-color: #7C7C7C;
+}
+#increment {
+	background-color:#B2F0B2;
+	font-weight: bold;
+}
+#decrement {
+	background-color: #FFB2B2;
+	font-weight: bold;
+}
